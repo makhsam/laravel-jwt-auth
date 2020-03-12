@@ -1,5 +1,7 @@
-## Install PHP package for JWT Auth
+## JWT Authentication in Laravel
 
-Please visit at: https://github.com/firebase/php-jwt
+Used package [Firebase PHP JWT](https://github.com/firebase/php-jwt)
 
-1. Run `composer require firebase/php-jwt`
+### Instructions
+
+Run `composer require firebase/php-jwt` to install the package
